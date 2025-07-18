@@ -1,3 +1,10 @@
+# Project Details
+
+Project Members: Aarav Kumar (akuma143), Chris Ho (clho), Grace Wang (gwang71), and Nathan Phan (ncphan)
+
+CanGo is a social platform designed to foster in-person social connections. We believe our app is really differentiated from our competitors in a couple of ways, allowing the best of both worlds in terms of allowing you to keep in touch with your existing friends while offering opportunities to discover new events and make new friends. CanGo will initally be designed to launch in a university setting.
+
+
 # How to
 
 Launch the program: 
@@ -13,13 +20,6 @@ Tests:
 To run the Playwright tests, you can type "cd client" in the terminal and run "npx run test". 
 To run the backend tests, you can run the test by clicking the play button on the file.
 The Postman tests can be found in `server/src/test/CanGo Endpoints.postman_collection.json`
-
-
-# Project Details
-
-Project Members: Aarav Kumar (akuma143), Chris Ho (clho), Grace Wang (gwang71), and Nathan Phan (ncphan)
-
-CanGo is a social platform designed to foster in-person social connections. We believe our app is really differentiated from our competitors in a couple of ways, allowing the best of both worlds in terms of allowing you to keep in touch with your existing friends while offering opportunities to discover new events and make new friends. CanGo will initally be designed to launch in a university setting.
 
 
 # Design Choices
