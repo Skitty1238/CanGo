@@ -46,3 +46,4 @@ Postman: We have a variety of tests to test our application's api calls, includi
 # Collaboration
 
 * OpenAI. (2025). ChatGPT (GPT-4o) [Large language model]. https://chat.openai.com/chat
+* Figma (2025): https://www.figma.com/design/mzuq9gmke7iAjvfS4J8QGy/CanGo?node-id=0-1&p=f&t=YPwWHlS15RkbyEyR-0 
