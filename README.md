@@ -1,6 +1,6 @@
 # Project Details
 
-Project Members: Aarav Kumar (akuma143), Chris Ho (clho), Grace Wang (gwang71), and Nathan Phan (ncphan)
+Project Members: Aarav Kumar, Chris Ho, Grace Wang, and Nathan Phan
 
 CanGo is a social platform designed to foster in-person social connections. We believe our app is really differentiated from our competitors in a couple of ways, allowing the best of both worlds in terms of allowing you to keep in touch with your existing friends while offering opportunities to discover new events and make new friends. CanGo will initally be designed to launch in a university setting.
 
@@ -46,4 +46,3 @@ Postman: We have a variety of tests to test our application's api calls, includi
 # Collaboration
 
 * OpenAI. (2025). ChatGPT (GPT-4o) [Large language model]. https://chat.openai.com/chat
-    * Generated 20 random events to be able to tests
